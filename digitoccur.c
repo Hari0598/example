@@ -1,4 +1,4 @@
-//1994329    9
+
 #include<stdio.h>
 int digitOccurrence(int num , int digit)
 {
@@ -18,3 +18,6 @@ int main()
     printf("%d",digitOccurrence(num,digit));
     return 0 ;
 }
+
+hi
+hello
